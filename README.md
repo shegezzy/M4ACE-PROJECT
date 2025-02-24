@@ -7,7 +7,11 @@
 ## ✅ Week 2 Tasks 
 - Practiced cloning the repo and added `goals.txt` with programming goals.
 
+## ✅ Week 3 Tasks
+- Wrote a function to calculate the sum of two numbers.
+- Created a program to print “Hello, World!” and log the current date.
+- Built a loop to print numbers from 1 to 10.
+- Developed a function to find the largest number in an array.
 
-
-💡 *“Every expert was once a beginner — keep pushing forward!”* 🚀
+💡 *“Small steps lead to big achievements — keep coding!”* 🚀
 
