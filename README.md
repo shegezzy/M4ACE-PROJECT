@@ -15,3 +15,10 @@
 
 💡 *“Small steps lead to big achievements — keep coding!”* 🚀
 
+## ✅ Week 4 Tasks
+- Implemented Separation of Concerns (SoC) by organizing code into different modules.
+- Created a Promise-based API function to simulate API responses.
+- Used the OS module to log system information.
+- Printed a welcome message from Node.js.
+
+💡 "Clean code is easy to read, debug, and maintain!" 🚀
