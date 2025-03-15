@@ -20,5 +20,7 @@
 - Created a Promise-based API function to simulate API responses.
 - Used the OS module to log system information.
 - Printed a welcome message from Node.js.
+- Created an object to represent a student with name, age, and grade.
+- Implemented a function to greet the student by name.
 
 💡 "Clean code is easy to read, debug, and maintain!" 🚀
