@@ -13,7 +13,7 @@
 - Built a loop to print numbers from 1 to 10.
 - Developed a function to find the largest number in an array.
 
-💡 *“Small steps lead to big achievements — keep coding!”* 🚀
+💡 “Small steps lead to big achievements — keep coding!” 🚀
 
 ## ✅ Week 4 Tasks
 - Implemented Separation of Concerns (SoC) by organizing code into different modules.
@@ -24,3 +24,10 @@
 - Implemented a function to greet the student by name.
 
 💡 "Clean code is easy to read, debug, and maintain!" 🚀
+
+## Week 5 Tasks
+- Implemented Object-Oriented Programming (OOP) concepts by creating a class named ClassRoom.
+- Used JavaScript classes and constructors to initialize objects with specific properties.
+- Ensured Separation of Concerns (SoC) by structuring files properly.
+
+💡 "The best way to learn to code is to build, break, and fix. Keep pushing forward!" 🚀
