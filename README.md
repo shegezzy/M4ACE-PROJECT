@@ -25,7 +25,7 @@
 
 💡 "Clean code is easy to read, debug, and maintain!" 🚀
 
-## Week 5 Tasks
+## ✅ Week 5 Tasks
 - Implemented Object-Oriented Programming (OOP) concepts by creating a class named ClassRoom.
 - Used JavaScript classes and constructors to initialize objects with specific properties.
 - Ensured Separation of Concerns (SoC) by structuring files properly.
