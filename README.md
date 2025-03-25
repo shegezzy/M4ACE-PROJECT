@@ -31,3 +31,12 @@
 - Ensured Separation of Concerns (SoC) by structuring files properly.
 
 💡 "The best way to learn to code is to build, break, and fix. Keep pushing forward!" 🚀
+
+## ✅ Week 6 Tasks
+- Implemented a function to filter even numbers from an array.
+- Used `.reduce()` to calculate the sum of numbers in an array.
+- Flattened a nested array using ES6 array methods.
+- Created and manipulated a TypedArray (`Uint8Array`).
+- Converted a regular array to a TypedArray and back.
+
+🚀 "Every line of code is an opportunity to learn something new."
