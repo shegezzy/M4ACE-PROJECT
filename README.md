@@ -40,3 +40,14 @@
 - Converted a regular array to a TypedArray and back.
 
 🚀 "Every line of code is an opportunity to learn something new."
+
+
+## ✅ Week 7 Tasks
+This week's assignment focuses on getting started with **TypeScript** and working with **generic functions**.
+- Installed TypeScript and set up a new project.
+- [x] Created a generic function that accepts an array of any type and returns the first element.
+- [x] Used appropriate **TypeScript annotations**.
+- [x] Configured a working `tsconfig.json` for TypeScript compilation.
+- [x] Ran and tested the function using `ts-node`.
+
+🚀  "Every expert was once a beginner – TypeScript makes JavaScript more powerful, one type at a time."
