@@ -51,3 +51,11 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 - [x] Ran and tested the function using `ts-node`.
 
 🚀  "Every expert was once a beginner – TypeScript makes JavaScript more powerful, one type at a time."
+
+## ✅ Week 8 Tasks
+- Created a Node.js script to write “Hello, File System!” into a text file.
+- Built another script to read the file content and print it to the console.
+- Practiced using fs/promises and working with asynchronous file operations.
+- Resolved CommonJS vs ES module compatibility by using import instead of require.
+
+💡 "The filesystem is the soul of the machine — learn to write to it and you'll master it!" 🛠️
