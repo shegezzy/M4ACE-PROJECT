@@ -59,3 +59,9 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 - Resolved CommonJS vs ES module compatibility by using import instead of require.
 
 💡 "The filesystem is the soul of the machine — learn to write to it and you'll master it!" 🛠️
+
+## ✅ Week 9 Tasks
+- Created a module to export a function that calculates the area of a rectangle.
+- Imported the module into another file and used it to calculate and display the area.
+
+🚀 "Modularity isn't just a practice, it's a mindset — one function, one job!"
