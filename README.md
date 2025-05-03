@@ -65,3 +65,9 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 - Imported the module into another file and used it to calculate and display the area.
 
 🚀 "Modularity isn't just a practice, it's a mindset — one function, one job!"
+
+## ✅ Week 10 Tasks
+- Built a basic **HTTP server** using Node.js.
+- Server responds with “Welcome to My Server!” on access via browser or `curl`.
+
+💡 "The web starts here — every great backend begins with a simple server!" 🚀
