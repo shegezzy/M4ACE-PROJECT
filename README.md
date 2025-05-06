@@ -71,3 +71,9 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 - Server responds with “Welcome to My Server!” on access via browser or `curl`.
 
 💡 "The web starts here — every great backend begins with a simple server!" 🚀
+
+## ✅ Week 11 Tasks
+- Extended the HTTP server to handle multiple routes: `/`, `/about`,`/me` , and `/contact`.
+- Used separation of concerns by structuring route handling into separate modules.
+
+🚀 "Good code structure today prevents bugs tomorrow. Stay modular, stay clean!"
