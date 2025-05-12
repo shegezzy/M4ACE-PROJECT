@@ -77,3 +77,11 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 - Used separation of concerns by structuring route handling into separate modules.
 
 🚀 "Good code structure today prevents bugs tomorrow. Stay modular, stay clean!"
+
+## ✅ Week 12 Tasks
+- Created an Express.js server that responds with "Hello, Express!" at the root route /.
+- Practiced setting up and running a basic Express app.
+- Gained experience with Node.js package management (npm init, npm install express).
+
+🚀 "With Express, building servers becomes simple and scalable — keep growing!"
+
