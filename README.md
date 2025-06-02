@@ -94,3 +94,11 @@ This week's focus was on **Routing in Express**:
 - [x] Maintained Separation of Concerns by splitting routes into individual files (`userRoutes.js`, `searchRoutes.js`).
 
 💡 "With Express, routing becomes smooth and powerful — like GPS for your server!" 🚀
+
+
+## ✅ Week 14 Tasks - Express Middleware
+- Implemented custom middleware to log HTTP request method and URL.
+- Created error-handling middleware to catch and respond with custom error messages.
+- Added routes to test middleware behavior, including a route to trigger an error.
+
+💡 Middleware enhances the request-response cycle by adding reusable functionality like logging and error handling.
