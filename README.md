@@ -85,3 +85,12 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 
 🚀 "With Express, building servers becomes simple and scalable — keep growing!"
 
+## ✅ Week 13 Tasks
+This week's focus was on **Routing in Express**:
+
+- [x] Defined a root route (`/`) that returns a welcome message.
+- [x] Created a dynamic route `/user/:id` to display user ID.
+- [x] Handled query strings in `/search?q=keyword` with appropriate conditional responses.
+- [x] Maintained Separation of Concerns by splitting routes into individual files (`userRoutes.js`, `searchRoutes.js`).
+
+💡 "With Express, routing becomes smooth and powerful — like GPS for your server!" 🚀
