@@ -104,3 +104,10 @@ This week's focus was on **Routing in Express**:
 - Logged a success message when the connection was successful, and handled connection errors gracefully.
 
 💡 Connecting to MongoDB is a key backend skill — now our app can persist and retrieve real-world data!
+
+### ✅ ✅ Week 15 Tasks - Basic CRUD with MongoDB
+- Connected a Node.js application to MongoDB Atlas using environment variables for secure configuration.
+- Implemented a POST /users endpoint to add a new user to the database.
+- Implemented a GET /users endpoint to fetch and display all users from the users collection.
+
+💡 CRUD (Create, Read, Update, Delete) operations form the foundation of interacting with databases. This week focused on creating and reading user records using MongoDB.
