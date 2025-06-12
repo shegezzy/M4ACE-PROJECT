@@ -103,4 +103,4 @@ This week's focus was on **Routing in Express**:
 - Connected the Node.js app to **MongoDB Atlas** using the URI.
 - Logged a success message when the connection was successful, and handled connection errors gracefully.
 
-💡 *Connecting to MongoDB is a key backend skill — now our app can persist and retrieve real-world data!*
+💡 Connecting to MongoDB is a key backend skill — now our app can persist and retrieve real-world data!
