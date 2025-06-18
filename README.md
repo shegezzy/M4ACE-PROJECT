@@ -111,3 +111,12 @@ This week's focus was on **Routing in Express**:
 - Implemented a GET /users endpoint to fetch and display all users from the users collection.
 
 💡 CRUD (Create, Read, Update, Delete) operations form the foundation of interacting with databases. This week focused on creating and reading user records using MongoDB.
+
+### ✅ ✅ Week 16 Tasks – Redis Caching with Express
+- Installed and started Redis server locally.
+- Installed redis, axios, dotenv, and express to set up caching logic.
+- Created a Redis client to manage cache operations in the app.
+- Built an Express route to fetch data from a mock API and cache it in Redis
+- Subsequent requests now retrieve data from Redis instead of making new API calls.
+
+💡 “Smart apps don’t always hit the API — they cache smartly!” 🚀
