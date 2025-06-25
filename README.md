@@ -1,13 +1,13 @@
-### ✅ Week 1 Tasks
+### ✅ ✅  Week 1 Tasks
 - Initialized a Git repository.
 - Created `hello.txt`, copied it to `week2` as `hello_copy.txt`, and deleted the original.
 - Wrote a short paragraph in `about_me.txt` using Vim.
 - Pushed the project to GitHub.
 
-### ✅ Week 2 Tasks 
+### ✅ ✅ Week 2 Tasks 
 - Practiced cloning the repo and added `goals.txt` with programming goals.
 
-### ✅ Week 3 Tasks
+### ✅ ✅  Week 3 Tasks
 - Wrote a function to calculate the sum of two numbers.
 - Created a program to print “Hello, World!” and log the current date.
 - Built a loop to print numbers from 1 to 10.
@@ -15,7 +15,7 @@
 
 💡 “Small steps lead to big achievements — keep coding!” 🚀
 
-### ✅ Week 4 Tasks
+### ✅ ✅  Week 4 Tasks
 - Implemented Separation of Concerns (SoC) by organizing code into different modules.
 - Created a Promise-based API function to simulate API responses.
 - Used the OS module to log system information.
@@ -25,14 +25,14 @@
 
 💡 "Clean code is easy to read, debug, and maintain!" 🚀
 
-### ✅ Week 5 Tasks
+### ✅ ✅  Week 5 Tasks
 - Implemented Object-Oriented Programming (OOP) concepts by creating a class named ClassRoom.
 - Used JavaScript classes and constructors to initialize objects with specific properties.
 - Ensured Separation of Concerns (SoC) by structuring files properly.
 
 💡 "The best way to learn to code is to build, break, and fix. Keep pushing forward!" 🚀
 
-### ✅ Week 6 Tasks
+### ✅ ✅ Week 6 Tasks
 - Implemented a function to filter even numbers from an array.
 - Used `.reduce()` to calculate the sum of numbers in an array.
 - Flattened a nested array using ES6 array methods.
@@ -42,7 +42,7 @@
 🚀 "Every line of code is an opportunity to learn something new."
 
 
-### ✅ Week 7 Tasks
+### ✅ ✅ Week 7 Tasks
 This week's assignment focuses on getting started with **TypeScript** and working with **generic functions**.
 - Installed TypeScript and set up a new project.
 - [x] Created a generic function that accepts an array of any type and returns the first element.
@@ -52,7 +52,7 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 
 🚀  "Every expert was once a beginner – TypeScript makes JavaScript more powerful, one type at a time."
 
-### ✅ Week 8 Tasks
+### ✅ ✅  Week 8 Tasks
 - Created a Node.js script to write “Hello, File System!” into a text file.
 - Built another script to read the file content and print it to the console.
 - Practiced using fs/promises and working with asynchronous file operations.
@@ -60,32 +60,32 @@ This week's assignment focuses on getting started with **TypeScript** and workin
 
 💡 "The filesystem is the soul of the machine — learn to write to it and you'll master it!" 🛠️
 
-### ✅ Week 9 Tasks
+### ✅ ✅  Week 9 Tasks
 - Created a module to export a function that calculates the area of a rectangle.
 - Imported the module into another file and used it to calculate and display the area.
 
 🚀 "Modularity isn't just a practice, it's a mindset — one function, one job!"
 
-### ✅ Week 10 Tasks
+### ✅ ✅  Week 10 Tasks
 - Built a basic **HTTP server** using Node.js.
 - Server responds with “Welcome to My Server!” on access via browser or `curl`.
 
 💡 "The web starts here — every great backend begins with a simple server!" 🚀
 
-### ✅ Week 11 Tasks
+### ✅ ✅  Week 11 Tasks
 - Extended the HTTP server to handle multiple routes: `/`, `/about`,`/me` , and `/contact`.
 - Used separation of concerns by structuring route handling into separate modules.
 
 🚀 "Good code structure today prevents bugs tomorrow. Stay modular, stay clean!"
 
-### ✅ Week 12 Tasks
+### ✅ ✅  Week 12 Tasks
 - Created an Express.js server that responds with "Hello, Express!" at the root route /.
 - Practiced setting up and running a basic Express app.
 - Gained experience with Node.js package management (npm init, npm install express).
 
 🚀 "With Express, building servers becomes simple and scalable — keep growing!"
 
-### ✅ Week 13 Tasks
+### ✅ ✅  Week 13 Tasks
 This week's focus was on **Routing in Express**:
 
 - [x] Defined a root route (`/`) that returns a welcome message.
@@ -97,7 +97,7 @@ This week's focus was on **Routing in Express**:
 💡 "With Express, routing becomes smooth and powerful — like GPS for your server!" 🚀
 
 
-### ✅ Week 14 Tasks 🛢️ MongoDB Connection
+### ✅ ✅ Week 14 Tasks 🛢️ MongoDB Connection
 - Installed MongoDB Node.js driver.
 - Created a `.env` file to securely store the `MONGO_URI`.
 - Connected the Node.js app to **MongoDB Atlas** using the URI.
@@ -120,3 +120,11 @@ This week's focus was on **Routing in Express**:
 - Subsequent requests now retrieve data from Redis instead of making new API calls.
 
 💡 “Smart apps don’t always hit the API — they cache smartly!” 🚀
+
+### ✅ ✅ Week 17 Tasks - Redis Hashes & Pub/Sub
+- Used **Redis hashes** to store and retrieve structured user profile data.
+- Built a simple **pub/sub system**:
+  - `publisher.js` sends messages.
+  - `subscriber.js` listens and logs notifications.
+
+💡 Redis makes data storage and real-time messaging incredibly efficient — perfect for scalable apps!
