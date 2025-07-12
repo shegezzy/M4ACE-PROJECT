@@ -128,3 +128,12 @@ This week's focus was on **Routing in Express**:
   - `subscriber.js` listens and logs notifications.
 
 💡 Redis makes data storage and real-time messaging incredibly efficient — perfect for scalable apps!
+
+### ✅ ✅ Week 18 – AWS Lambda & API Gateway Integration
+- [x] Created an AWS Lambda function in Node.js that returns a JSON response.
+- [x] Connected the Lambda function to an API Gateway HTTP endpoint.
+- [x] Defined a `GET` route `/hello` that triggers the Lambda function.
+- [x] Used an environment variable `GREETING` to customize the Lambda response.
+- [x] Tested the endpoint using a browser and Postman.
+
+💡 “Serverless lets you focus on code — not servers.” – AWS
