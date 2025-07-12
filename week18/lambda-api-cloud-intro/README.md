@@ -54,8 +54,8 @@ In Lambda configuration, under Configuration > Environment variables, added:
 GREETING = Welcome to Cloud!
 
 
-![Lambda Screenshot](lambda-api-cloud-intro/assets/lambaa.png)
-![Lambda Screenshot](lambda-api-cloud-intro/assets/lamba.png)
+![Lambda Screenshot](assets/lambaa.png)
+![Lambda Screenshot](assets/lamba.png)
 
 3️⃣ Created an API Gateway
 API Gateway Console
@@ -78,7 +78,7 @@ Copied the Invoke URL:
 
 https://vbb76qt8q4.execute-api.us-east-1.amazonaws.com/helloTested 
 
-![Response Screenshot](lambda-api-cloud-intro/assets/webtest.png)
+![Response Screenshot](assets/webtest.png)
 
 {
   "message": "Welcome to Cloud!",
@@ -86,7 +86,7 @@ https://vbb76qt8q4.execute-api.us-east-1.amazonaws.com/helloTested
 }
 
 ✅ Successful response Postman
-![Response Screenshot](lambda-api-cloud-intro/assets/postman.png)
+![Response Screenshot](assets/postman.png)
 
 
 Also tested using curl:
@@ -103,7 +103,7 @@ Connect your Lambda as the integration target.
 
 Deploy the API to a stage.
 
-![API Gateway Screenshot](lambda-api-cloud-intro/assets/apigate.png)
+![API Gateway Screenshot](assets/apigate.png)
 
 
 
