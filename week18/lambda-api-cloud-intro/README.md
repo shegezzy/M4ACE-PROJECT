@@ -37,7 +37,6 @@ Cloud computing delivers computing services (servers, storage, databases, networ
 - Used this function code:
 
 
-```js
 // index.mjs or handler.js
 export const handler = async (event) => {
     const greeting = process.env.GREETING || "Hello from Lambda!";
